@@ -47,18 +47,32 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tasfiqul-Ahmed&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/><br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tasfiqul-Ahmed&theme=date_night&hide_border=false)<br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasfiqul-Ahmed&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/><br/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasfiqul-Ahmed&show_icons=true&theme=date_night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tasfiqul-Ahmed&theme=date_night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasfiqul-Ahmed&layout=compact&theme=date_night&hide_border=true" />
+</p>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tasfiqul-Ahmed&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tasfiqul-Ahmed&theme=monokai&no-frame=true&margin-w=10" />
+</p>
 
 ---
 <br/><br/>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tasfiqul-Ahmed&limit=5&theme=date_night&combine_all_yearly_contributions=true)<br/><br/>
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tasfiqul-Ahmed&limit=5&theme=date_night&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
