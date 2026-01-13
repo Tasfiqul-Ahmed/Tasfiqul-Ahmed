@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasfiqul-Ahmed&show_icons=true&theme=date_night&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tasfiqul-Ahmed&show_icons=true&theme=date_night&hide_border=true" />
 </p>
 
 <p align="center">
@@ -58,11 +58,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasfiqul-Ahmed&layout=compact&theme=date_night&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tasfiqul-Ahmed&layout=compact&theme=date_night&hide_border=true" />
 </p>
 
-
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tasfiqul-Ahmed&theme=monokai&no-frame=true&margin-w=10" />
 </p>
